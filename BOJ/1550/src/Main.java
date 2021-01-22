@@ -9,7 +9,7 @@ public class Main {
         int bin = 0;
         if(s.equals("0") && len == 1) System.out.println(0);
         else {
-            for(int i = len-1; i >= 0; i--){
+            for(int i = 0; i < len; i++){
                 bin += (change(s.charAt(i)) * Math.pow(16, len-i-1));
             }
         }
