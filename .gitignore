@@ -25,3 +25,7 @@ hs_err_pid*
 BOJ/**/.idea
 BOJ/**/*.iml
 BOJ/**/out
+
+Programmers/**/.idea
+Programmers/**/*.iml
+Programmers/**/out
