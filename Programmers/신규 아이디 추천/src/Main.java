@@ -36,7 +36,7 @@ public class Main {
         if (list.get(0)=='.') list.remove(0);
         if (!list.isEmpty()){
             if (list.get(list.size()-1)=='.') list.remove(list.size()-1);
-        }
+        } 
 
         // 여기에서부터는 길이에 따라 단계가 달라짐
         Iterator<Character> it = list.iterator();
