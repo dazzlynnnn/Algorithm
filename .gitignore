@@ -29,3 +29,9 @@ BOJ/**/out
 Programmers/**/.idea
 Programmers/**/*.iml
 Programmers/**/out
+*.pbxproj
+*.pbxproj
+*.xcworkspacedata
+*.plist
+*.xcuserstate
+*.plist
