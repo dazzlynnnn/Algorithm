@@ -29,6 +29,11 @@ BOJ/**/out
 Programmers/**/.idea
 Programmers/**/*.iml
 Programmers/**/out
+
+E-PPER/**/.idea
+E-PPER/**/*.iml
+E-PPER/**/out
+
 *.pbxproj
 *.pbxproj
 *.xcworkspacedata
